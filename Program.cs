@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+// use same move of same type as pokemon for stab damage(1.5x)
 namespace ConsoleApp1
 {
     class Program
